@@ -1,0 +1,44 @@
+{
+  "os":  "macOS-14.1-arm64-arm-64bit",
+  "python":  "CPython 3.12.5",
+  "startedAt":  "2025-02-26T15:12:42.210912Z",
+  "program":  "/Users/tanvisanghai/Documents/college/3rd year/distance_classification/tanvi_lab5.ipynb",
+  "codePath":  "tanvi_lab5.ipynb",
+  "git":  {
+    "remote":  "https://github.com/tanvi-sanghai/distance_classification.git",
+    "commit":  "b16715179e39fa95e30a51fc740e7e2c1e288961"
+  },
+  "email":  "tanvisanghai@gmail.com",
+  "root":  "/Users/tanvisanghai/Documents/college/3rd year/distance_classification",
+  "host":  "Tanvis-MacBook-Pro.local",
+  "executable":  "/usr/local/bin/python3",
+  "codePathLocal":  "tanvi_lab5.ipynb",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "494384795648",
+      "used":  "182392418304"
+    },
+    "/System/Volumes/Data":  {
+      "total":  "494384795648",
+      "used":  "182392418304"
+    }
+  },
+  "memory":  {
+    "total":  "8589934592"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  8
+  },
+  "apple":  {
+    "name":  "Apple M3",
+    "ecpuCores":  4,
+    "pcpuCores":  4,
+    "gpuCores":  10,
+    "memoryGb":  8,
+    "swapTotalBytes":  "5368709120",
+    "ramTotalBytes":  "8589934592"
+  }
+}

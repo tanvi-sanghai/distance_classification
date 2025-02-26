@@ -2,7 +2,7 @@ import cv2
 import os
 import sys
 
-image_files = ["shashi.jpg", "faculty.jpg"]
+image_files = ["Dr_Shashi_Tharoor.jpg", "Plaksha_Faculty.jpg"]
 
 def check_image_loading(image_path):
     if not os.path.exists(image_path):
