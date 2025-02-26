@@ -1,4 +1,4 @@
 touch .gitignore
-echo "venv/" >> .gitignore
-echo "*.csv" >> .gitignore
-echo "logs/" >> .gitignore
+venv/
+*.csv
+logs/
